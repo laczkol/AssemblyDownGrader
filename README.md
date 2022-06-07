@@ -1,6 +1,6 @@
 # AssemblyDownGrader
 
-Creates draft-like assemblies by chopping complete reference genomes and possibly introducing mutations. Useful to benchmark bioinformatic tools designed to analyse draft genomes.
+Creates draft-like assemblies by chopping complete reference genomes and possibly introducing mutations. The goal is to obtain draft-like genome sequences without the computationally intensive steps of read simulation and genome assembly. Useful to benchmark bioinformatic tools designed to analyse draft genomes.
 
 To install this tool you need to clone this repository to your local machine and install dependencies using the `yaml` file supplied. 
 
