@@ -8,7 +8,7 @@ Dependencies are:
 
 - [bedtools](https://bedtools.readthedocs.io/en/latest/)
 - [bioawk](https://github.com/lh3/bioawk)
-- [Mutation-Simulator](https://github.com/mkpython3/Mutation-Simulator) with python v3.10 installed
+- [Mutation-Simulator](https://github.com/mkpython3/Mutation-Simulator) with python v3.10 installed (need pip to install)
 
 The script is developed in `bash` and can be run from the command line using any GNU/Linux distribution by typing `assemblydowngrader.sh` after adding the location of the script to $PATH variable. This tool can be parametrized from the command line. Each run gets its own unique ID present in the output file names, which ensures that previous data do not get overwritten.
 
